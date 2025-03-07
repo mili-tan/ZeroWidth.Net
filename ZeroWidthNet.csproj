@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>ZeroWidth.Net</PackageId>
+    <Title>ZeroWidth.Net</Title>
+    <Company>Milkey</Company>
+    <Product>ZeroWidth.Net</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A lib for zero width chars, dotnet port for zero-width-lib</Description>
+    <RepositoryUrl>https://github.com/mili-tan/ZeroWidth.Net</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
